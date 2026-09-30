@@ -28,37 +28,8 @@ Técnico en Sistemas Microinformáticos y Redes, actualmente cursando 2.º curso
 
 ---
 
-## Proyectos propios
-
-- **ClickSense** — Servidor de videojuegos sobre FiveM y txAdmin (desde 2021). Elaboré un plan de negocio con análisis de compra que mejoró un 40% las ventas virtuales a través de Tebex.
-- **Valle Sagrado** — Servidor de videojuegos (desde 2024).
-- Aplicación de registro de eventos, aplicación de rastreo y aplicación de modelos 3D para entornos GTA.
-- Corrección de errores en las plataformas FiveM y txAdmin.
-
----
-
 ## Stack técnico
 
 **Lenguajes y desarrollo web:** Java · JavaScript · Vue.js · React · Lua
 **Bases de datos:** MariaDB · MySQL
 **Herramientas y despliegue:** Docker · Git · Cloudflare · Vercel
-
----
-
-## Educación
-
-- Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) — IES Domenico Scarlatti *(2025 – actualidad)*
-- Técnico en Sistemas Microinformáticos y Redes (SMR) — IES Domenico Scarlatti *(desde 2023)*
-
----
-
-## Idiomas
-
-- Español — Nativo
-- Inglés — B1
-
----
-
-## Otros
-
-- Participación como creador de contenido en Gamergy (2024 y 2025).
