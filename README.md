@@ -33,3 +33,11 @@ Técnico en Sistemas Microinformáticos y Redes, actualmente cursando 2.º curso
 **Lenguajes y desarrollo web:** Java · JavaScript · Vue.js · React · Lua
 **Bases de datos:** MariaDB · MySQL
 **Herramientas y despliegue:** Docker · Git · Cloudflare · Vercel
+
+---
+
+<p align="center">
+  <a href="https://github.com/contactozrcore"><img src="https://img.shields.io/badge/GitHub-KnightZ993-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:contactozrcore@gmail.com"><img src="https://img.shields.io/badge/Email-contactozrcore%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/adam-bravo-695ab929a"><img src="https://img.shields.io/badge/LinkedIn-Adrián%20Hernández%20Castillo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
